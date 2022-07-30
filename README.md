@@ -1,3 +1,7 @@
+[🚨 All of my content can be found on investigate.ai 🚨](http://investigate.ai/)
+
+---
+
 Machine learning can mean a *lot* of different things. At its most basic, it can be described as "giving a computer some inputs and some outcomes, and letting the computer figure out the relationship between the two."
 
 **Presentation:** [PowerPoint](machine%20learning%20for%20newsrooms.pptx), [PDF](machine%20learning%20for%20newsrooms.pdf)
